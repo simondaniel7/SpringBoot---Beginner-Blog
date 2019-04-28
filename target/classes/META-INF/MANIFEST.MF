@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ElsoProject
+Implementation-Version: 0.1
+Built-By: genius
+Implementation-Vendor-Id: com.elsoproject
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/elsoproject/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
